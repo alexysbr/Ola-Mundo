@@ -26,7 +26,7 @@ div#conteudo{
     text-align: center;
     background: white;
     box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.555);
-    position: fixed;
+    position: relative;
 }
 /*div#objetivo{
     visibility: visible;
