@@ -36,7 +36,7 @@ function fcertificados(){
     <ul>
         <li>Github: 9F228-A18C-2</li>
         <li>JavaScript: 9F228-6C61-4</li>
-        <li>HTML e CSS Modulo 1: 9F228-C9E9-8</li>
-        <li>Python Modulo 1: 9F228-66E2-9</li>
+        <li>HTML e CSS Módulo 1: 9F228-C9E9-8</li>
+        <li>Python Módulo 1: 9F228-66E2-9</li>
     </ul>`
 }
