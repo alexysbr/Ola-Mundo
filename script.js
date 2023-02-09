@@ -5,6 +5,12 @@ function fobjetivos(){
 function fjavascript(){
     conteudo.innerHTML=`<h3>JavaScript</h3>
     <ul>
+        <li><h4><a href="https://alexysbr.github.io/code/tabuada/tabuada.html">Tabuada</a></h4></li>
+        <p>Site que recebe um número é faz a sua tabuada.</p>
+        <li><h4><a href="https://alexysbr.github.io/code/contador/contador.html">Contador</a></h4></li>
+        <p>Site que recebe um número inicial, final e passos, e conta do início ao fim de acordo com o passo.</p>
+        <li><h4><a href="https://alexysbr.github.io/code/analisador/analisador.html">Analisador de números</a></h4></li>
+        <p>Site que recebe números, mostra a quantidade, o maior, o menor, a soma e a média dos números.</p>
         <li><h4><a href="https://alexysbr.github.io/code/idade/idade.html">Verificador de idade</a></h4></li>
         <p>Site que recebe ano e gênero e retorna a idade.</p>
         <li><h4><a href="https://alexysbr.github.io/code/periodo/periodo.html">Avalia o período do dia</a></h4></li>
