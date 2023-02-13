@@ -1,6 +1,6 @@
 function fobjetivos(){
     conteudo.innerHTML=`<h3>Objetivos</h3>
-    <p>Espaço para demostrar/registrar a evolução do meu conhecimento em programação com projetos em JavaScript e Python, pode ser que outras linguagens de programação sejam incluídas futuramente neste site. Tenho planos de aprender a desenvolver aplicativos para celular e a obter conhecimento em automação.</p>`
+    <p>&emsp;Espaço para demostrar/registrar a evolução do meu conhecimento em programação com projetos em JavaScript e Python, pode ser que outras linguagens de programação sejam incluídas futuramente neste site. Tenho planos de aprender a desenvolver aplicativos para celular e a obter conhecimento em automação.</p>`
 }
 function fjavascript(){
     conteudo.innerHTML=`<h3>JavaScript</h3>
