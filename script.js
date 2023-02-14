@@ -27,9 +27,9 @@ function fjogos(){
     conteudo.innerHTML=`<h3>Jogos</h3>
     <ul>
     <li><a href="https://alexysbr.github.io/code/jokenpo/jokenpo.html">Jogo JO KEN PO</a></h4></li>
-    Jogo da pedra, papel e tesoura em JavaScript.
+    <p>&emsp;Jogo da pedra, papel e tesoura em JavaScript.</p>
     <li><a href="https://alexysbr.github.io/code/tictactoy/tic.html">Jogo da Velha</a></h4></li>
-    Tradicional jogo da velha em JavaScript (Pretendo colocar uma IA que jogará aleatoriamente e outra que não perde).    
+    <p>&emsp;Tradicional jogo da velha em JavaScript (Pretendo colocar uma IA que jogará aleatoriamente e outra que não perde).</p>    
     </ul>`
 }
 function fcertificados(){
