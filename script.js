@@ -21,7 +21,8 @@ function fjavascript(){
 }
 function fpython(){
     conteudo.innerHTML=`<h3>Python</h3>
-    <a href="https://github.com/alexysbr/Desafios-Python">Link</a> do repositório de códigos em Python dos desafios do Curso em Vídeo, futuramente pretendo colocar de forma visual neste site.`
+    <a href="https://github.com/alexysbr/Desafios-Python">Link</a> do repositório de códigos em Python dos desafios do Curso em Vídeo, futuramente pretendo colocar de forma visual neste site.
+    <p><a href="https://github.com/alexysbr/tictactoe-py">Link</a> do repositório do jogo da velha feito Python.</p>`
 }
 function fjogos(){
     conteudo.innerHTML=`<h3>Jogos</h3>
