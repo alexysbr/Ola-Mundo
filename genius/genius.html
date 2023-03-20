@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genius/Simon</title>
+    <link rel="stylesheet" href="style.css">
+    <audio id="clip1">
+        <source src="https://s3.amazonaws.com/freecodecamp/simonSound1.mp3"></source>
+    </audio>
+    <audio id="clip2">
+        <source src="https://s3.amazonaws.com/freecodecamp/simonSound2.mp3"></source>
+    </audio>
+    <audio id="clip3">
+        <source src="https://s3.amazonaws.com/freecodecamp/simonSound3.mp3"></source>
+    </audio>
+    <audio id="clip4">
+        <source src="https://s3.amazonaws.com/freecodecamp/simonSound4.mp3"></source>
+    </audio>
+</head>
+<body>
+    <section>        
+        <div class="cor" id="cor0" onmousedown="clicado(0)" onmouseup="desclicado(0)"></div>
+        <div class="cor" id="cor1" onmousedown="clicado(1)" onmouseup="desclicado(1)"></div>
+        <div class="cor" id="cor2" onmousedown="clicado(2)" onmouseup="desclicado(2)"></div>
+        <div class="cor" id="cor3" onmousedown="clicado(3)" onmouseup="desclicado(3)"></div>
+        <div id="centro">     
+            <div id="jogo">
+                <h1>Jogo da memória</h1>  
+                <h1 id="play" onmouseup="jogo()">Play</h1>
+                <input type="radio" name="rad" checked>
+                <label>Fácil</label>
+                <input type="radio" name="rad">
+                <label>Normal</label>
+                <input type="radio" name="rad">
+                <label>Difícil</label>
+                <div id="plac">
+                    <div>Rodada<p id="turno">0</p></div>
+                    <div>Total de Rodadas<p id="total">0</p></div>
+                    <div>Sua vez<p id="vez">0</p></div>
+                </div>
+                <p>&copy; alexysbr</p>
+            </div>            
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
