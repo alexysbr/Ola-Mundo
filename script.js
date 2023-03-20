@@ -31,6 +31,8 @@ function fjogos(){
     <p>&emsp;Jogo da pedra, papel e tesoura em JavaScript.</p>
     <li><a href="https://alexysbr.github.io/code/tictactoy/tic.html">Jogo da Velha</a></h4></li>
     <p>&emsp;Tradicional jogo da velha em JavaScript (Pretendo colocar uma IA que jogará aleatoriamente e outra que não perde).</p>    
+    <li><a href="https://alexysbr.github.io/code/genius/genius.html">Jogo da Memória (Genius/Simon)</a></h4></li>
+    <p>&emsp;Reprodução do brinquedo do jogo memória Genius em JavaScript.</p>  
     </ul>`
 }
 function fcertificados(){
