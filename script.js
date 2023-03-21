@@ -15,8 +15,6 @@ function fjavascript(){
         <p>Site que recebe ano e gênero e retorna a idade.</p>
         <li><h4><a href="https://alexysbr.github.io/code/periodo/periodo.html">Avalia o período do dia</a></h4></li>
         <p>Site que verifica o período do dia, informa a hora e o visual se adapta com o período do dia (Vai ser incluído uma opção para alterar manualmente a hora, para ficar mais fácil de verificar os efeitos visuais e também uma atualização automática do site).</p>
-        <li><h4><a href="https://alexysbr.github.io/code/tictactoy/tic.html">Jogo da Velha</a></h4></li>
-        Tradicional jogo da velha (Pretendo colocar uma IA que jogará aleatoriamente e outra que não perde).
     </ul>`
 }
 function fpython(){
