@@ -41,6 +41,7 @@ function fcertificados(){
         <li>JavaScript: 9F228-6C61-4</li>
         <li>HTML e CSS Módulo 1: 9F228-C9E9-8</li>
         <li>HTML e CSS Módulo 2: 9F228-E776-A</li>
+        <li>HTML e CSS Módulo 3: 9F228-15678-5</li>
         <li>Python Módulo 1: 9F228-66E2-9</li>
 	    <li>Python Módulo 2: 9F228-67AC-6</li>
         <li>Python Módulo 3: 9F228-685A-1</li>
