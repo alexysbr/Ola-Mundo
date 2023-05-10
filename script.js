@@ -46,6 +46,8 @@ function fcertificados(){
 	    <li>Python Módulo 2: 9F228-67AC-6</li>
         <li>Python Módulo 3: 9F228-685A-1</li>
         <li>PHP Básico: 9F228-632E-8</li>
+        <li>PHP POO: 9F228-645C-3</li>
+        
         
     </ul>`
 }
